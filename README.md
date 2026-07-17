@@ -43,6 +43,11 @@ If you're a landlord looking for an app (not just formulas) to track rent, tenan
 leases, expenses and maintenance — check out
 **[RentFlow](https://rentflow.tabserve.com.tr)** (iOS & Android, free to start).
 
+## From the same team
+
+- [awesome-turkiye-gezi](https://github.com/coinsayfasi/awesome-turkiye-gezi) — curated Türkiye travel guides
+- [awesome-carry-on-packing](https://github.com/coinsayfasi/awesome-carry-on-packing) — carry-on packing lists for 70+ destinations
+
 ## License
 
 MIT
