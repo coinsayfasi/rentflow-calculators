@@ -1,0 +1,23 @@
+{
+  "name": "rentflow-calculators",
+  "version": "1.0.0",
+  "description": "Zero-dependency rental property math: yield, cash flow, mortgage, ROI and landlord-compliance formulas.",
+  "main": "src/index.js",
+  "license": "MIT",
+  "keywords": [
+    "real-estate",
+    "rental-yield",
+    "cap-rate",
+    "cash-flow",
+    "landlord",
+    "property-management",
+    "mortgage-calculator",
+    "roi"
+  ],
+  "author": "Aycan Merve Güneş",
+  "homepage": "https://rentflow.tabserve.com.tr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coinsayfasi/rentflow-calculators"
+  }
+}
